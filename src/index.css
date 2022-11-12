@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+
+
+button{
+  color: black!important;
+}
+
+.slick-next:before{
+  color: black!important;
+}
+
+.slick-prev:before{
+  color: black!important;
+}
+
+@media only screen and (max-width: 850px){
+    .hidenow{
+      display: none;
+    }
+
+    .seachingbox{
+      width: auto;
+    }
+
+    .Nmae{
+      width: 80%;
+    }
+}

@@ -1,0 +1,36 @@
+
+.Nmae{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px ;
+}
+
+.slick-slide > div{
+    margin: 0 10px;
+}
+.slick-list{
+    margin: 0 -10px;
+}
+
+.card{
+    border : 1px solid rgb(250, 246, 246);
+    background: rgb(243, 240, 240);
+    border-radius: 8px;
+    overflow: hidden;
+    height: 200px;
+    color: #fff;
+}
+
+#card-top {
+   width: 100%;
+   height: 100%;
+    object-fit: cover;
+}
+
+.titleName{
+    padding-left: 2em;
+}
+
+.slick-arrow{
+    color: black;
+}
